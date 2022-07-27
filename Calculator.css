@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.calci {
+  width: 500px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* padding-left: 100px; */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: 0.25px;
+  background-color: black;
+  text-align: center;
+}
+
+#display {
+  border: none;
+  background: white;
+  border-radius: 30px;
+  width: 245;
+  font-size: 30;
+  font-family: sans-serif;
+  font-weight: 300;
+  height: 50;
+  margin: auto;
+  border: 2px solid green;
+  color: black;
+}
+.btnDesign {
+  border: none;
+  background: white;
+  border-radius: 30px;
+  width: 50;
+  font-size: 30;
+  font-family: sans-serif;
+  font-weight: 300;
+  height: 50;
+  margin: auto;
+  border: 2px solid green;
+  color: black;
+}
+.operatorDesign {
+  border: none;
+  background: white;
+  border-radius: 30px;
+  width: 50;
+  font-size: 30;
+  font-family: sans-serif;
+  font-weight: 300;
+  height: 50;
+  margin: auto;
+  border: 2px solid green;
+  color: black;
+}
+#zero {
+  border: none;
+  background: white;
+  border-radius: 30px;
+  width: 100;
+  font-size: 30;
+  font-family: sans-serif;
+  font-weight: 300;
+  height: 50;
+  margin: auto;
+  border: 2px solid green;
+  color: black;
+}
+.btn1Design {
+  border: none;
+  background: red;
+  border-radius: 30px;
+  width: 50;
+  font-size: 30;
+  font-family: sans-serif;
+  font-weight: 300;
+  height: 50;
+  margin: auto;
+  border: 2px solid green;
+  color: black;
+}
